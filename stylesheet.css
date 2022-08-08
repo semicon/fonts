@@ -3,6 +3,15 @@
 
 
 @font-face {
+    font-family: 'CantikaFoster';
+    src: url('CantikaFoster-2OXVv.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
     font-family: 'cirqueeregular';
     src: url('cirquee-eaj78-webfont.eot');
     src: url('cirquee-eaj78-webfont.eot?#iefix') format('embedded-opentype'),
