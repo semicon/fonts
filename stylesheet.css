@@ -3,12 +3,14 @@
 
 
 @font-face {
-    font-family: 'CantikaFoster-2OXVv';
-    src: url('CantikaFoster-2OXVv.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'Conv_CantikaFoster-2OXVv';
+	src: url('fonts/CantikaFoster-2OXVv.eot');
+	src: url('fonts/CantikaFoster-2OXVv.woff') format('woff'), 
+         url('fonts/CantikaFoster-2OXVv.ttf') format('truetype'),
+         url('fonts/CantikaFoster-2OXVv.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
-
 
 
 @font-face {
@@ -112,3 +114,16 @@
     font-style: normal;
 
 }
+
+
+
+@font-face {
+	font-family: 'Conv_Victorian-K75q7';
+	src: url('fonts/Victorian-K75q7.eot');
+	src: url('fonts/Victorian-K75q7.woff') format('woff'), 
+         url('fonts/Victorian-K75q7.ttf') format('truetype'), 
+         url('fonts/Victorian-K75q7.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
