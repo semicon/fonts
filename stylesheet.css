@@ -127,3 +127,12 @@
 	font-style: normal;
 }
 
+
+
+@font-face {
+	font-family: 'Digital dream Fat';
+	src: url('https://semicon.github.io/fonts/DigitaldreamFat.woff2') format('woff2'),
+	     url('https://semicon.github.io/fonts/DigitaldreamFat.woff') format('woff');
+	     font-weight: normal;
+	     font-style: normal;
+	     font-display: swap;
