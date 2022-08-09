@@ -3,7 +3,7 @@
 
 
 @font-face {
-	font-family: 'Conv_CantikaFoster-2OXVv';
+	font-family: 'Conv_CantikaFoster';
 	src: url('CantikaFoster-2OXVv.eot');
 	src: url('CantikaFoster-2OXVv.woff') format('woff'), 
          url('CantikaFoster-2OXVv.ttf') format('truetype'),
@@ -118,7 +118,7 @@
 
 
 @font-face {
-	font-family: 'Conv_Victorian-K75q7';
+	font-family: 'Conv_Victorian';
 	src: url('Victorian-K75q7.eot');
 	src: url('Victorian-K75q7.woff') format('woff'), 
          url('Victorian-K75q7.ttf') format('truetype'), 
